@@ -1,0 +1,17 @@
+C:\MyStuff\Code\CSInternetProgram\8TCP_Shoot\Client_ShootGame\bin\Debug\Client_ShootGame.exe.config
+C:\MyStuff\Code\CSInternetProgram\8TCP_Shoot\Client_ShootGame\bin\Debug\Client_ShootGame.exe
+C:\MyStuff\Code\CSInternetProgram\8TCP_Shoot\Client_ShootGame\bin\Debug\Client_ShootGame.pdb
+C:\MyStuff\Code\CSInternetProgram\8TCP_Shoot\Client_ShootGame\obj\Debug\Client_ShootGame.csproj.AssemblyReference.cache
+C:\MyStuff\Code\CSInternetProgram\8TCP_Shoot\Client_ShootGame\obj\Debug\Client_ShootGame.csproj.SuggestedBindingRedirects.cache
+C:\MyStuff\Code\CSInternetProgram\8TCP_Shoot\Client_ShootGame\obj\Debug\MainWindow.g.cs
+C:\MyStuff\Code\CSInternetProgram\8TCP_Shoot\Client_ShootGame\obj\Debug\App.g.cs
+C:\MyStuff\Code\CSInternetProgram\8TCP_Shoot\Client_ShootGame\obj\Debug\Client_ShootGame_MarkupCompile.cache
+C:\MyStuff\Code\CSInternetProgram\8TCP_Shoot\Client_ShootGame\obj\Debug\Client_ShootGame_MarkupCompile.lref
+C:\MyStuff\Code\CSInternetProgram\8TCP_Shoot\Client_ShootGame\obj\Debug\MainWindow.baml
+C:\MyStuff\Code\CSInternetProgram\8TCP_Shoot\Client_ShootGame\obj\Debug\Client_ShootGame.g.resources
+C:\MyStuff\Code\CSInternetProgram\8TCP_Shoot\Client_ShootGame\obj\Debug\Client_ShootGame.Properties.Resources.resources
+C:\MyStuff\Code\CSInternetProgram\8TCP_Shoot\Client_ShootGame\obj\Debug\Client_ShootGame.csproj.GenerateResource.cache
+C:\MyStuff\Code\CSInternetProgram\8TCP_Shoot\Client_ShootGame\obj\Debug\Client_ShootGame.csproj.CoreCompileInputs.cache
+C:\MyStuff\Code\CSInternetProgram\8TCP_Shoot\Client_ShootGame\obj\Debug\Client_ShootGame.exe
+C:\MyStuff\Code\CSInternetProgram\8TCP_Shoot\Client_ShootGame\obj\Debug\Client_ShootGame.pdb
+C:\MyStuff\Code\CSInternetProgram\8TCP_Shoot\Client_ShootGame\obj\Debug\Client_ShootGame.Resources.GameImage.resources

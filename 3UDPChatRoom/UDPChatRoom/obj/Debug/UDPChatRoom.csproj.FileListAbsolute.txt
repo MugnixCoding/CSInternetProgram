@@ -1,0 +1,16 @@
+C:\MyStuff\Code\CSInternetProgram\3UDPChatRoom\UDPChatRoom\bin\Debug\UDPChatRoom.exe.config
+C:\MyStuff\Code\CSInternetProgram\3UDPChatRoom\UDPChatRoom\bin\Debug\UDPChatRoom.exe
+C:\MyStuff\Code\CSInternetProgram\3UDPChatRoom\UDPChatRoom\bin\Debug\UDPChatRoom.pdb
+C:\MyStuff\Code\CSInternetProgram\3UDPChatRoom\UDPChatRoom\obj\Debug\UDPChatRoom.csproj.AssemblyReference.cache
+C:\MyStuff\Code\CSInternetProgram\3UDPChatRoom\UDPChatRoom\obj\Debug\UDPChatRoom.csproj.SuggestedBindingRedirects.cache
+C:\MyStuff\Code\CSInternetProgram\3UDPChatRoom\UDPChatRoom\obj\Debug\MainWindow.g.cs
+C:\MyStuff\Code\CSInternetProgram\3UDPChatRoom\UDPChatRoom\obj\Debug\App.g.cs
+C:\MyStuff\Code\CSInternetProgram\3UDPChatRoom\UDPChatRoom\obj\Debug\UDPChatRoom_MarkupCompile.cache
+C:\MyStuff\Code\CSInternetProgram\3UDPChatRoom\UDPChatRoom\obj\Debug\UDPChatRoom_MarkupCompile.lref
+C:\MyStuff\Code\CSInternetProgram\3UDPChatRoom\UDPChatRoom\obj\Debug\MainWindow.baml
+C:\MyStuff\Code\CSInternetProgram\3UDPChatRoom\UDPChatRoom\obj\Debug\UDPChatRoom.g.resources
+C:\MyStuff\Code\CSInternetProgram\3UDPChatRoom\UDPChatRoom\obj\Debug\UDPChatRoom.Properties.Resources.resources
+C:\MyStuff\Code\CSInternetProgram\3UDPChatRoom\UDPChatRoom\obj\Debug\UDPChatRoom.csproj.GenerateResource.cache
+C:\MyStuff\Code\CSInternetProgram\3UDPChatRoom\UDPChatRoom\obj\Debug\UDPChatRoom.csproj.CoreCompileInputs.cache
+C:\MyStuff\Code\CSInternetProgram\3UDPChatRoom\UDPChatRoom\obj\Debug\UDPChatRoom.exe
+C:\MyStuff\Code\CSInternetProgram\3UDPChatRoom\UDPChatRoom\obj\Debug\UDPChatRoom.pdb

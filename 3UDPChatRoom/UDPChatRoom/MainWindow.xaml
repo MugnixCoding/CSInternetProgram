@@ -1,0 +1,38 @@
+﻿<Window x:Class="UDPChatRoom.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:UDPChatRoom"
+        mc:Ignorable="d"
+        Title="UDP Chat Room" Height="450" Width="800"
+        Loaded="Window_Loaded" Closed="Window_Closed">
+    <Window.Resources>
+        <SolidColorBrush x:Key="TransparentBlue" Color="#00b0f0" Opacity="0.2" />
+        <Style TargetType="TextBox" x:Key="GlobalTextBoxStyle">
+            <Setter Property="FontSize" Value="30" />
+        </Style>
+    </Window.Resources>
+    <Grid>
+        <StackPanel Orientation="Horizontal" Background="{StaticResource TransparentBlue}">
+            <StackPanel Orientation="Vertical" >
+                <Label Content="線上使用者" HorizontalAlignment="Center"/>
+                <ListBox x:Name="OnlineUser_listbox" Margin="10,10,10,10" Height="350" Width="170"  FontSize="20"/>
+            </StackPanel>
+            <StackPanel Orientation="Vertical" HorizontalAlignment="Center"  Margin="30,0,30,0" >
+                <Label Content="訊息視窗" HorizontalAlignment="Center"/>
+                <ListBox x:Name="ChatRoom_listbox" Margin="0,10,0,10" Height="250" Width="540"  FontSize="20"/>
+                <StackPanel Orientation="Horizontal">
+                    <Label Content="我是: " FontSize="20"/>
+                    <TextBox x:Name="UserName_textbox" Width="300" Margin="20,0,30,0"  FontSize="20"/>
+                    <Button x:Name="Online_button" Content="上線" Width="70"  FontSize="20" Click="Online_button_Click"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" Margin="0,30,0,0">
+                    <Label Content="訊息: " FontSize="20"/>
+                    <TextBox x:Name="Message_textbox" Width="300" Margin="20,0,30,0"  FontSize="20" KeyDown="Message_textbox_KeyDown"/>
+                    <Button x:Name="Send_button" Content="廣播" Width="70"  FontSize="20" Click="Send_button_Click"/>
+                </StackPanel>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>

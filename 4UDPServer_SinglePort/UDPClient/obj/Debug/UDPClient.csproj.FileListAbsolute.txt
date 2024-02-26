@@ -1,0 +1,16 @@
+C:\MyStuff\Code\CSInternetProgram\4UDPServer_SinglePort\UDPClient\bin\Debug\UDPClient.exe.config
+C:\MyStuff\Code\CSInternetProgram\4UDPServer_SinglePort\UDPClient\bin\Debug\UDPClient.exe
+C:\MyStuff\Code\CSInternetProgram\4UDPServer_SinglePort\UDPClient\bin\Debug\UDPClient.pdb
+C:\MyStuff\Code\CSInternetProgram\4UDPServer_SinglePort\UDPClient\obj\Debug\UDPClient.csproj.AssemblyReference.cache
+C:\MyStuff\Code\CSInternetProgram\4UDPServer_SinglePort\UDPClient\obj\Debug\UDPClient.csproj.SuggestedBindingRedirects.cache
+C:\MyStuff\Code\CSInternetProgram\4UDPServer_SinglePort\UDPClient\obj\Debug\MainWindow.g.cs
+C:\MyStuff\Code\CSInternetProgram\4UDPServer_SinglePort\UDPClient\obj\Debug\App.g.cs
+C:\MyStuff\Code\CSInternetProgram\4UDPServer_SinglePort\UDPClient\obj\Debug\UDPClient_MarkupCompile.cache
+C:\MyStuff\Code\CSInternetProgram\4UDPServer_SinglePort\UDPClient\obj\Debug\UDPClient_MarkupCompile.lref
+C:\MyStuff\Code\CSInternetProgram\4UDPServer_SinglePort\UDPClient\obj\Debug\MainWindow.baml
+C:\MyStuff\Code\CSInternetProgram\4UDPServer_SinglePort\UDPClient\obj\Debug\UDPClient.g.resources
+C:\MyStuff\Code\CSInternetProgram\4UDPServer_SinglePort\UDPClient\obj\Debug\UDPClient.Properties.Resources.resources
+C:\MyStuff\Code\CSInternetProgram\4UDPServer_SinglePort\UDPClient\obj\Debug\UDPClient.csproj.GenerateResource.cache
+C:\MyStuff\Code\CSInternetProgram\4UDPServer_SinglePort\UDPClient\obj\Debug\UDPClient.csproj.CoreCompileInputs.cache
+C:\MyStuff\Code\CSInternetProgram\4UDPServer_SinglePort\UDPClient\obj\Debug\UDPClient.exe
+C:\MyStuff\Code\CSInternetProgram\4UDPServer_SinglePort\UDPClient\obj\Debug\UDPClient.pdb

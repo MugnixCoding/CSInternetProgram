@@ -1,0 +1,16 @@
+C:\MyStuff\Code\CSInternetProgram\9TCP_Poker\Server_Poker\bin\Debug\Server_Poker.exe.config
+C:\MyStuff\Code\CSInternetProgram\9TCP_Poker\Server_Poker\bin\Debug\Server_Poker.exe
+C:\MyStuff\Code\CSInternetProgram\9TCP_Poker\Server_Poker\bin\Debug\Server_Poker.pdb
+C:\MyStuff\Code\CSInternetProgram\9TCP_Poker\Server_Poker\obj\Debug\Server_Poker.csproj.AssemblyReference.cache
+C:\MyStuff\Code\CSInternetProgram\9TCP_Poker\Server_Poker\obj\Debug\Server_Poker.csproj.SuggestedBindingRedirects.cache
+C:\MyStuff\Code\CSInternetProgram\9TCP_Poker\Server_Poker\obj\Debug\MainWindow.g.cs
+C:\MyStuff\Code\CSInternetProgram\9TCP_Poker\Server_Poker\obj\Debug\App.g.cs
+C:\MyStuff\Code\CSInternetProgram\9TCP_Poker\Server_Poker\obj\Debug\Server_Poker_MarkupCompile.cache
+C:\MyStuff\Code\CSInternetProgram\9TCP_Poker\Server_Poker\obj\Debug\Server_Poker_MarkupCompile.lref
+C:\MyStuff\Code\CSInternetProgram\9TCP_Poker\Server_Poker\obj\Debug\MainWindow.baml
+C:\MyStuff\Code\CSInternetProgram\9TCP_Poker\Server_Poker\obj\Debug\Server_Poker.g.resources
+C:\MyStuff\Code\CSInternetProgram\9TCP_Poker\Server_Poker\obj\Debug\Server_Poker.Properties.Resources.resources
+C:\MyStuff\Code\CSInternetProgram\9TCP_Poker\Server_Poker\obj\Debug\Server_Poker.csproj.GenerateResource.cache
+C:\MyStuff\Code\CSInternetProgram\9TCP_Poker\Server_Poker\obj\Debug\Server_Poker.csproj.CoreCompileInputs.cache
+C:\MyStuff\Code\CSInternetProgram\9TCP_Poker\Server_Poker\obj\Debug\Server_Poker.exe
+C:\MyStuff\Code\CSInternetProgram\9TCP_Poker\Server_Poker\obj\Debug\Server_Poker.pdb

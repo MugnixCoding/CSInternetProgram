@@ -1,0 +1,16 @@
+C:\MyStuff\Code\CSInternetProgram\5TCPConnect\TCPConnect_Server\bin\Debug\TCPConnect_Server.exe.config
+C:\MyStuff\Code\CSInternetProgram\5TCPConnect\TCPConnect_Server\bin\Debug\TCPConnect_Server.exe
+C:\MyStuff\Code\CSInternetProgram\5TCPConnect\TCPConnect_Server\bin\Debug\TCPConnect_Server.pdb
+C:\MyStuff\Code\CSInternetProgram\5TCPConnect\TCPConnect_Server\obj\Debug\TCPConnect_Server.csproj.AssemblyReference.cache
+C:\MyStuff\Code\CSInternetProgram\5TCPConnect\TCPConnect_Server\obj\Debug\TCPConnect_Server.csproj.SuggestedBindingRedirects.cache
+C:\MyStuff\Code\CSInternetProgram\5TCPConnect\TCPConnect_Server\obj\Debug\MainWindow.g.cs
+C:\MyStuff\Code\CSInternetProgram\5TCPConnect\TCPConnect_Server\obj\Debug\App.g.cs
+C:\MyStuff\Code\CSInternetProgram\5TCPConnect\TCPConnect_Server\obj\Debug\TCPConnect_Server_MarkupCompile.cache
+C:\MyStuff\Code\CSInternetProgram\5TCPConnect\TCPConnect_Server\obj\Debug\TCPConnect_Server_MarkupCompile.lref
+C:\MyStuff\Code\CSInternetProgram\5TCPConnect\TCPConnect_Server\obj\Debug\MainWindow.baml
+C:\MyStuff\Code\CSInternetProgram\5TCPConnect\TCPConnect_Server\obj\Debug\TCPConnect_Server.g.resources
+C:\MyStuff\Code\CSInternetProgram\5TCPConnect\TCPConnect_Server\obj\Debug\TCPConnect_Server.Properties.Resources.resources
+C:\MyStuff\Code\CSInternetProgram\5TCPConnect\TCPConnect_Server\obj\Debug\TCPConnect_Server.csproj.GenerateResource.cache
+C:\MyStuff\Code\CSInternetProgram\5TCPConnect\TCPConnect_Server\obj\Debug\TCPConnect_Server.csproj.CoreCompileInputs.cache
+C:\MyStuff\Code\CSInternetProgram\5TCPConnect\TCPConnect_Server\obj\Debug\TCPConnect_Server.exe
+C:\MyStuff\Code\CSInternetProgram\5TCPConnect\TCPConnect_Server\obj\Debug\TCPConnect_Server.pdb

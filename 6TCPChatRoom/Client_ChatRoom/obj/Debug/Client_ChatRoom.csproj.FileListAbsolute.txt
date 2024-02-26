@@ -1,0 +1,16 @@
+C:\MyStuff\Code\CSInternetProgram\6TCPChatRoom\Client_ChatRoom\bin\Debug\Client_ChatRoom.exe.config
+C:\MyStuff\Code\CSInternetProgram\6TCPChatRoom\Client_ChatRoom\bin\Debug\Client_ChatRoom.exe
+C:\MyStuff\Code\CSInternetProgram\6TCPChatRoom\Client_ChatRoom\bin\Debug\Client_ChatRoom.pdb
+C:\MyStuff\Code\CSInternetProgram\6TCPChatRoom\Client_ChatRoom\obj\Debug\Client_ChatRoom.csproj.AssemblyReference.cache
+C:\MyStuff\Code\CSInternetProgram\6TCPChatRoom\Client_ChatRoom\obj\Debug\Client_ChatRoom.csproj.SuggestedBindingRedirects.cache
+C:\MyStuff\Code\CSInternetProgram\6TCPChatRoom\Client_ChatRoom\obj\Debug\MainWindow.g.cs
+C:\MyStuff\Code\CSInternetProgram\6TCPChatRoom\Client_ChatRoom\obj\Debug\App.g.cs
+C:\MyStuff\Code\CSInternetProgram\6TCPChatRoom\Client_ChatRoom\obj\Debug\Client_ChatRoom_MarkupCompile.cache
+C:\MyStuff\Code\CSInternetProgram\6TCPChatRoom\Client_ChatRoom\obj\Debug\Client_ChatRoom_MarkupCompile.lref
+C:\MyStuff\Code\CSInternetProgram\6TCPChatRoom\Client_ChatRoom\obj\Debug\MainWindow.baml
+C:\MyStuff\Code\CSInternetProgram\6TCPChatRoom\Client_ChatRoom\obj\Debug\Client_ChatRoom.g.resources
+C:\MyStuff\Code\CSInternetProgram\6TCPChatRoom\Client_ChatRoom\obj\Debug\Client_ChatRoom.Properties.Resources.resources
+C:\MyStuff\Code\CSInternetProgram\6TCPChatRoom\Client_ChatRoom\obj\Debug\Client_ChatRoom.csproj.GenerateResource.cache
+C:\MyStuff\Code\CSInternetProgram\6TCPChatRoom\Client_ChatRoom\obj\Debug\Client_ChatRoom.csproj.CoreCompileInputs.cache
+C:\MyStuff\Code\CSInternetProgram\6TCPChatRoom\Client_ChatRoom\obj\Debug\Client_ChatRoom.exe
+C:\MyStuff\Code\CSInternetProgram\6TCPChatRoom\Client_ChatRoom\obj\Debug\Client_ChatRoom.pdb

@@ -1,0 +1,44 @@
+﻿<Window x:Class="Client_ShootGame.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Client_ShootGame"
+        mc:Ignorable="d"
+        Title="TCP 射擊遊戲 客戶端" Height="670" Width="850"
+        Loaded="Window_Loaded" Closed="Window_Closed"
+        KeyDown="Window_KeyDown">
+    <Grid Background="LightGray">
+        <StackPanel Orientation="Horizontal" Margin="13,17,13,17" VerticalAlignment="Top">
+            <Grid x:Name="Canvas_grid" Width="600" Height="600" Background="White">
+                <Canvas x:Name="Fighting_canvas"  Width="600" Height="600">
+                    <Image x:Name="EnemyPlane_image" Source="/ResourceImage/PlaneR.png" Width="70" Canvas.Top="20" Canvas.Bottom="510" Canvas.Left="250" Canvas.Right="250"/>
+                    <Image x:Name="PlayerPlane_image" Source="/ResourceImage/PlaneB.png" Width="70" Canvas.Top="510" Canvas.Bottom="20" Canvas.Left="250" Canvas.Right="250"/>
+                </Canvas>
+            </Grid>
+            <StackPanel Orientation="Vertical" Margin="30,0">
+                <Label Content="伺服器IP:" FontSize="20" />
+                <TextBox x:Name="ServerIP_textbox" FontSize="20" Width="170" Margin="0,0,0,5"/>
+
+                <Label Content="伺服器Port:" FontSize="20" />
+                <TextBox x:Name="ServerPort_textbox" FontSize="20" Width="170" Margin="0,0,0,10"/>
+
+                <Label Content="玩家名稱:" FontSize="20" />
+                <TextBox x:Name="UserName_textbox" FontSize="20" Width="170" Margin="0,0,0,10"/>
+
+                <Button x:Name="ConnectServer_button" Content="登入伺服器" FontSize="20" Margin="0,0,0,10" Click="ConnectServer_button_Click"/>
+
+                <Label Content="線上使用者" FontSize="20" />
+                <ListBox x:Name="OnlineUser_listbox" FontSize="20" Height="130" Margin="0,0,0,10" GotFocus="OnlineUser_listbox_GotFocus"/>
+
+                <Label Content="系統訊息:" FontSize="20" />
+                <TextBox x:Name="SystemMessage_textbox" IsReadOnly="True" FontSize="20" Width="170" Margin="0,0,0,20"/>
+                <StackPanel Orientation="Horizontal">
+                    <Label Content="分數:" FontSize="20"/>
+                    <Label x:Name="PlayerScore_label" Content="0" FontSize="20"/>
+                </StackPanel>
+                <Button x:Name="ClearAndReplay_button" Content="" FontSize="20" />
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>
